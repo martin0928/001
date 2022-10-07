@@ -11,3 +11,9 @@ DOMAIN-SUFFIX,czspp.com
 DOMAIN-SUFFIX,agefans.app
 DOMAIN-SUFFIX,olehdtv.com
 DOMAIN-SUFFIX,olemovienews.com
+
+
+DOMAIN-SUFFIX,op.supes.top
+DOMAIN-SUFFIX,r1141418f5.goho.co
+
+IP-CIDR,45.88.194.149/24,no-resolve
