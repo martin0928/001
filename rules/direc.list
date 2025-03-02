@@ -2,5 +2,5 @@ DOMAIN-KEYWORD,yyhb
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-KEYWORD,dl-a10b-
-GEOSITE,pikpak
+##GEOSITE,pikpak
 DOMAIN-SUFFIX,gimy.tv
